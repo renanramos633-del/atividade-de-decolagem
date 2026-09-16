@@ -36,7 +36,7 @@ Faixas didáticas adotadas:
 
 Abaixo está o resultado da execução do código no Google Colab:
 
-![Execução do projeto no Google Colab](execucao.png)
+![Execução do projeto no Google Colab](execucao.png.png)
 
 ## Resultado do cenário
 Todos os parâmetros simulados estão dentro das faixas adotadas. O resultado é `PRONTO PARA DECOLAR`.
