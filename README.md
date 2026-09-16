@@ -32,6 +32,12 @@ Faixas didáticas adotadas:
 4. Execute as células na ordem.
 5. Confira os resultados apresentados pelo programa.
 
+## Print da execução
+
+Abaixo está o resultado da execução do código no Google Colab:
+
+![Execução do projeto no Google Colab](execucao.png)
+
 ## Resultado do cenário
 Todos os parâmetros simulados estão dentro das faixas adotadas. O resultado é `PRONTO PARA DECOLAR`.
 
